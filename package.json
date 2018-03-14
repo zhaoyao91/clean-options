@@ -1,0 +1,12 @@
+{
+  "name": "clean-options",
+  "version": "1.0.0",
+  "description": "clean options",
+  "main": "index.js",
+  "keywords": [
+    "clean",
+    "options"
+  ],
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT"
+}
